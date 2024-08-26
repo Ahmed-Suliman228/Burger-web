@@ -113,7 +113,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 1rem;
+  height: 4rem;
 }
 .nav_logo {
   display: flex;
@@ -154,7 +154,7 @@ img {
   display: flex;
   flex-direction: column;
   text-align: center;
-  row-gap: 2rem;
+  row-gap: 4rem;
 }
 .nav_link {
   position: relative;
